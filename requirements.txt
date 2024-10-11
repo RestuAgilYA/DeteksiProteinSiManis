@@ -1,3 +1,5 @@
-flask 
-os
+Flask
+Flask-Uploads
 torch
+pillow
+os-sys
